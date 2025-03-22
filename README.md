@@ -1,4 +1,5 @@
 # Привет! 👋 Меня зовут Юрий
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+разработчик;Люблю+React+и+Node.js!&center=true&size=22)
 
 💻 **Full Stack Developer** | 2+ года коммерческого опыта  
 🚀 **React | Node.js | Express | MySQL**  
@@ -14,5 +15,5 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+Я+Юрий!;Full+Stack+разработчик;Люблю+React+и+Node.js!&center=true&size=22)
+
 
