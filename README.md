@@ -15,7 +15,6 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
 
-![Snake animation](https://github.com/YuraFLex/blob/output/github-contribution-grid-snake.svg)
 
 
 
