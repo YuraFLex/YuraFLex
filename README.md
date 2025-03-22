@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @YuraFLex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Привет! 👋 Меня зовут Юрий
 
-<!---
-YuraFLex/YuraFLex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full Stack Developer** | 2 года коммерческого опыта  
+🚀 **React | Node.js | Express | MySQL**  
+📈 Создаю удобные веб-приложения, занимаюсь оптимизацией данных   
+
+## 📊 GitHub Статистика  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical)  
+
