@@ -1,5 +1,5 @@
 # Привет! 👋 Меня зовут Юрий
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+разработчик;Люблю+React+и+Node.js!&center=true&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+разработчик;React+и+Node.js!&center=true&size=22)
 
 💻 **Full Stack Developer** | 2+ года коммерческого опыта  
 🚀 **React | Node.js | Express | MySQL**  
