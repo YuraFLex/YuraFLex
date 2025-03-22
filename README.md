@@ -13,3 +13,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет!+Я+Юрий!;Full+Stack+разработчик;Люблю+React+и+Node.js!&center=true&size=22)
+
