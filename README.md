@@ -11,3 +11,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-14.21.3-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.18.2-gray?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
