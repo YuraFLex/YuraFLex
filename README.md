@@ -15,6 +15,11 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YuraFLex&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/YuraFLex?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/YuraFLex?affiliations=OWNER%2CCOLLABORATOR)
+
+
 
 
 
