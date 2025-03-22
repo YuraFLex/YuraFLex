@@ -5,5 +5,5 @@
 📈 Создаю удобные веб-приложения, занимаюсь оптимизацией данных   
 
 ## 📊 GitHub Статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuraFLex&show_icons=true&theme=radical)  
 
