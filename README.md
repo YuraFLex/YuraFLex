@@ -15,5 +15,10 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuraFLex&theme=radical)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YuraFLex&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuraFLex&theme=react-dark)
+
+
+
 
 
